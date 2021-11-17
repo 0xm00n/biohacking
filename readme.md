@@ -1,3 +1,0 @@
-# biohacking
-
-hacking life
